@@ -114,8 +114,3 @@ The model is trained for **10 epochs** and evaluated using:
 Training curves are plotted to visualize the learning process.
 
 ---
-- Text Classification
-
-The goal is to build a **strong practical foundation in PyTorch model development and experimentation**.
-
----
