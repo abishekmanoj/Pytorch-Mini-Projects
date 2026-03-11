@@ -114,17 +114,6 @@ The model is trained for **10 epochs** and evaluated using:
 Training curves are plotted to visualize the learning process.
 
 ---
-
-## Purpose of This Project
-
-This project is part of a **series of PyTorch mini projects** focused on learning deep learning fundamentals across different data modalities.
-
-Projects in the series include:
-
-- Tabular Data Classification (this project)
-- Image Classification
-- Transfer Learning for Image Classification
-- Audio Classification
 - Text Classification
 
 The goal is to build a **strong practical foundation in PyTorch model development and experimentation**.
