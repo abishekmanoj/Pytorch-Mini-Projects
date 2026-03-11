@@ -10,6 +10,9 @@ Each project focuses on a different type of data and model.
 ### 1. Tabular Data Classification
 Location: `01_rice_type_classification`
 
+Dataset:
+https://www.kaggle.com/datasets/mssmartypants/rice-type-classification
+
 Binary classification using the Rice Type dataset.
 
 Topics covered:
