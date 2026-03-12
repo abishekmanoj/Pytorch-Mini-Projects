@@ -42,6 +42,25 @@ Topics covered:
 
 ---
 
+### 3. Audio Classification
+Location: `03_audio_classification`
+
+CNN model trained on Mel Spectrogram representations of audio signals
+to classify music genres.
+
+Dataset:  
+https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+
+Topics covered:
+- Audio loading with **torchaudio**
+- Waveform preprocessing
+- Mel Spectrogram feature extraction
+- Log scaling and normalization
+- CNN-based audio classification
+- Training and validation loops
+- Model evaluation using confusion matrix
+
+---
+
 ## Upcoming Projects
-- Audio Classification
 - Text Classification
