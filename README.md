@@ -63,3 +63,32 @@ Topics covered:
 ---
 
 ### 4. Text Classification
+Location: `04_text_classification`
+
+Sarcasm detection using a **BERT-based transformer model**.
+
+Dataset:  
+https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection
+
+Topics covered:
+
+- NLP preprocessing
+- Tokenization using HuggingFace Transformers
+- BERT embeddings
+- Transformer-based text classification
+- PyTorch Dataset and DataLoader for text
+- Training and evaluation of transformer models
+
+---
+
+# Future Improvements
+
+Possible extensions for this repository:
+
+- Transfer Learning with ResNet / EfficientNet
+- Vision Transformers (ViT)
+- Advanced NLP models
+- Model deployment with FastAPI
+- Experiment tracking with MLflow or Weights & Biases
+
+---
