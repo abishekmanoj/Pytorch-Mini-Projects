@@ -62,5 +62,4 @@ Topics covered:
 
 ---
 
-## Upcoming Projects
-- Text Classification
+### 4. Text Classification
